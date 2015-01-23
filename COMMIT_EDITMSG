@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   libs/nineoldandroids-2.4.0.jar
+#	modified:   res/layout/activity_main.xml
+#	modified:   src/com/example/qqmenudemo/ScrollingMenu.java
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   bin/QQMenuDemo.apk
+#	modified:   bin/classes.dex
+#	modified:   bin/classes/com/example/qqmenudemo/ScrollingMenu.class
+#	modified:   bin/resources.ap_
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	bin/dexedLibs/nineoldandroids-2.4.0-ba03f7cde4f39def5f2db5fb9b342eab.jar
